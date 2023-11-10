@@ -1,0 +1,12 @@
+{
+  "cSpell.words": [
+    "chrono",
+    "libc",
+    "reqwest",
+    "taskr"
+  ],
+  "rust-analyzer.linkedProjects": [
+    "./daemon/Cargo.toml",
+    "./daemon/Cargo.toml"
+  ]
+}

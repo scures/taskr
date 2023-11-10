@@ -1,0 +1,9 @@
+[package]
+name = "taskr-daemon"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+chrono = { version = "0.4.31", features = ["serde"] }
+daemonize = "0.5.0"
+common = { path = "../common" }
